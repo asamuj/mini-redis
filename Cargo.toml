@@ -1,2 +1,3 @@
 [workspace]
-members = ["mini-redis"]
+members = ["mini-redis", "mini-redis-practice"]
+resolver = "2"
